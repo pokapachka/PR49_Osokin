@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using ПР49_Осокин.Models;
 using ПР49_Осокин.Context;
-using ПР49_Осокин.Model;
+using System.Linq;
 
 namespace ПР49_Осокин.Controllers
 {

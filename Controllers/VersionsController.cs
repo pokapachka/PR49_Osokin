@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using ПР49_Осокин.Context;
 using ПР49_Осокин.Models;
 
 namespace ПР49_Осокин.Controllers
